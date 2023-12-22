@@ -5,7 +5,7 @@
 let Mateus = {
     age: 20,
     country: 'Brazil',
-    course: 'Técnico em Informática & Análise e Desenvolvimento de Sistemas',
+    course: 'Graduando em Análise e Desenvolvimento de Sistemas | Técnico em Informática',
     someKnowledge: ['HTML', 'CSS', 'Bootstrap' and 'JavaScript'],
     interestedIn: ['Python', 'PHP', 'C#', 'Java', 'MySQL' or 'Kotlin']
 };
