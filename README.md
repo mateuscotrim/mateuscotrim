@@ -2,12 +2,12 @@
 
 
 ```javascript
-let Mateus = {
+var Mateus = {
     age: 20,
     country: 'Brazil',
     course: 'Graduando em Análise e Desenvolvimento de Sistemas | Técnico em Informática',
-    someKnowledge: ['HTML', 'CSS', 'Bootstrap' and 'JavaScript'],
-    interestedIn: ['Python', 'PHP', 'C#', 'Java', 'MySQL' or 'Kotlin']
+    someKnowledge: ['HTML', 'CSS', 'Bootstrap', 'React', 'Javascript' and 'Node.js'],
+    interestedIn: ['Python', 'C#', 'Java', 'MySQL' or 'Kotlin']
 };
 ```
   
