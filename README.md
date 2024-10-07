@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAF9F6&size=32&center=true&vCenter=true&width=1000&lines=Hello+world,+welcome+to+my+Github+repository.;)](https://git.io/typing-svg)
+<h1>Hello world, welcome to my Github repository</h1>
 
 ```javascript
 var Mateus = {
