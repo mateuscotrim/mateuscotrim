@@ -1,4 +1,4 @@
-<h1>Hello world, welcome to my Github repository</h1>
+<h1 align="center">Hello world, welcome to my Github repository!</h1>
 
 ```javascript
 var Mateus = {
