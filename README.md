@@ -27,7 +27,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
- ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
  ![snake animation](https://github.com/mateuscotrim/mateuscotrim/blob/output/github-contribution-grid-snake2.svg)
-
- <img src="https://raw.githubusercontent.com/mateuscotrim/mateuscotrim/output/snake.svg" alt="Snake animation" />
