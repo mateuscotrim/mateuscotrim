@@ -27,5 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-![snake animation](https://raw.githubusercontent.com/mateuscotrim/mateuscotrim/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateuscotrim/mateuscotrim/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateuscotrim/mateuscotrim/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateuscotrim/mateuscotrim/output/github-contribution-grid-snake.svg">
+</picture>    
 
