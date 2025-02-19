@@ -10,7 +10,6 @@
 📈 Desenvolvedor **Full-Stack**, focado em **JavaScript, Node.js, React e PostgreSQL**  
 📌 Atualmente aprendendo **React Native**  
 🚀 **Desenvolvi** o **[eletConnect](https://github.com/mateuscotrim/eletConnect)**, um sistema para gerenciamento de disciplinas eletivas, automatizando o processo de inscrição e organização  
-🔹 **Desenvolvi** o projeto **[Auto-Mecânica Tavares](https://mateuscotrim.github.io/auto-mecanica-tavares/)**, uma plataforma para gestão e controle de serviços automotivos  
 
 ## I code with
 <div align="left">
