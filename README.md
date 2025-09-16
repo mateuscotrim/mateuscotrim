@@ -1,12 +1,13 @@
 # Olá, tudo bem?
 
-Meu nome é **Mateus Cotrim**, sou estudante de Tecnologia da Informação com foco em desenvolvimento, sempre buscando aprimorar meus conhecimentos e aprender a criar soluções inovadoras.
+Meu nome é Mateus Cotrim, estudante de Tecnologia da Informação. Sempre busco aprimorar meus conhecimentos para criar soluções inovadoras, eficientes e seguras. Com experiência em suporte técnico, infraestrutura de TI e desenvolvimento de aplicações, estou pronto para contribuir em equipes colaborativas.
 
 ## Sobre mim
-- **Graduado** em Análise e Desenvolvimento de Sistemas (ADS) pelo **Centro Universitário de Brasília (CEUB)**  
-- **2º semestre de Ciência da Computação** na **Universidade Católica de Brasília (UCB)**  
-- Atualmente focado no aprendizado de **React Native**  
-- **Desenvolvi** o **[eletConnect](https://github.com/mateuscotrim/eletConnect)**, um sistema para gerenciamento de disciplinas eletivas, automatizando o processo de inscrição e organização  
+- **Graduado** em Análise e Desenvolvimento de Sistemas (Tecnólogo) pelo Centro Universitário de Brasília (CEUB) (Ago 2022 - Jun 2025)  
+- **Cursando** Bacharelado em Sistemas de Informação no Centro Universitário Unieuro (UNIEURO) (Ago 2025 - Presente)
+- Técnico em Informática pela Escola Técnica de Brasília (ETB) (Ago 2021 - Jul 2023)
+- Atualmente focado no aprendizado de React Native e tecnologias relacionadas a bancos de dados e APIs REST
+- **Desenvolvi** o **[eletConnect](https://github.com/mateuscotrim/eletConnect)**,  um sistema web para gerenciamento de disciplinas eletivas, automatizando inscrições e organização para alunos 
 
 ## Tecnologias que utilizo
 
